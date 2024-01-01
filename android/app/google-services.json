@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "894739687404",
+    "project_id": "touristguide-f8fd6",
+    "storage_bucket": "touristguide-f8fd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894739687404:android:60b61f2c86309a424e82c9",
+        "android_client_info": {
+          "package_name": "com.mycompany.touristguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894739687404-jk2igbpqto1ce6qvl0808lrrr2aiso6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.touristguide",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "894739687404-kiq4mllcavltobf61sac221lmdru8rve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5iXCzbvlaYsEzXUiNieHSeeyBoJUnR58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894739687404-kiq4mllcavltobf61sac221lmdru8rve.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894739687404-nc51o1ejadgb2mc12s4hf35pvvgoncp1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.touristguide"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
